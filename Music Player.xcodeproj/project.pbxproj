@@ -35,6 +35,7 @@
 			membershipExceptions = (
 				Info.plist,
 				Player/Figma/figma.png,
+				"Player/Figma/Google DeepMind - Follow Up - klyatskin@gmail.com - Gmail.webloc",
 			);
 			target = D1B3B9602EA2E2320030F9D5 /* Music Player */;
 		};
